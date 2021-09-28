@@ -2,7 +2,7 @@
 - 👀 I’m interested in health disparities, 
 - 🌱 I’m currently learning culture, ethnicity, data science
 - 💞️ I’m looking to collaborate on Opensafely
-- 📫 How to reach me jenniferlyyip@gmail.com
+- 📫 How to reach me 
 
 <!---
 Jenniferlyyip/Jenniferlyyip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
